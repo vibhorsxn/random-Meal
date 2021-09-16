@@ -1,0 +1,43 @@
+.meal__main{
+    /* align-items: center; */
+    display: flex;
+    margin: 2%;
+}
+
+.btn{
+    margin: 10%;
+    text-transform: uppercase;
+}
+
+/* .meal__img{
+    box-shadow: 0px 0px 10px red
+} */
+
+h1,h4,h5{
+    font-family: cursive;
+    
+}
+h1 span{
+    color: brown;
+    font-family: monospace;
+}
+
+h5 span{
+    color: brown;
+    font-family: monospace;
+}
+
+h4{
+    text-align: justify;
+    margin: 20%;
+    padding: 2%;
+    border: 12px dotted rgb(165, 165, 245);
+    border-radius: 2%;
+}
+
+h4 span{
+    color: rgb(236, 114, 236);
+    font-size: 30px;
+    font-weight: 500;
+    font-family: monospace;
+}
